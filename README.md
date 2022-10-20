@@ -2,7 +2,7 @@
 
 ![1660250202173](https://user-images.githubusercontent.com/12086860/184237707-4810b1d8-f20b-40cf-93ea-37d2051b87ba.png)
 
-**🌿 Ссылка**: `photos`
+**🌿 Ссылка**: https://maria-khabian.github.io/react-beginner-projects-photos/
 
 **👀 Что изучили?**
 
